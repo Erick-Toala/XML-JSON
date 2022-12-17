@@ -1,0 +1,82 @@
+<MANTENIMIENTO>
+    <HABITACION>
+        <NUMERO>001</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>30.00$</PRECIO>
+        <CATEGORIA>Individual</CATEGORIA>
+        <PISO>PRIMER PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>002</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>50.00$</PRECIO>
+        <CATEGORIA>Doble</CATEGORIA>
+        <PISO>PRIMER PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>003</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>50.00$</PRECIO>
+        <CATEGORIA>Doble</CATEGORIA>
+        <PISO>PRIMER PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>004</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>30.00$</PRECIO>
+        <CATEGORIA>Individual</CATEGORIA>
+        <PISO>PRIMER PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>005</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>30.00$</PRECIO>
+        <CATEGORIA>Individual</CATEGORIA>
+        <PISO>SEGUNDO PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>006</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>30.00$</PRECIO>
+        <CATEGORIA>Individual</CATEGORIA>
+        <PISO>SEGUNDO PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>007</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>50.00$</PRECIO>
+        <CATEGORIA>Doble</CATEGORIA>
+        <PISO>SEGUNDO PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>008</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>30.00$</PRECIO>
+        <CATEGORIA>Individual</CATEGORIA>
+        <PISO>SEGUNDO PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>009</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>30.00$</PRECIO>
+        <CATEGORIA>Individual</CATEGORIA>
+        <PISO>TERCER PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+    <HABITACION>
+        <NUMERO>010</NUMERO>
+        <DETALLE>WIFI + BAÑO + TV + CABLE</DETALLE>
+        <PRECIO>50.00$</PRECIO>
+        <CATEGORIA>Doble</CATEGORIA>
+        <PISO>TERCER PISO</PISO>
+        <ESTADO>Activo</ESTADO>
+    </HABITACION>
+</MANTENIMIENTO>
